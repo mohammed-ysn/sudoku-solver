@@ -1,2 +1,3 @@
-# sudoku-solver
-A Python script that solves a given soduko puzzle
+# Sudoku Solver
+
+A Python script that solves a given Sudoku puzzle using backtracking.
